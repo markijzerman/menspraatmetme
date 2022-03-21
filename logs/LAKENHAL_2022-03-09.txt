@@ -1,0 +1,103 @@
+2022-03-09 09:58:41.841066 | info |  | STARTED...
+2022-03-09 10:00:05.675113 | info |  | STARTED...
+2022-03-09 10:00:46.677254 | info |  | KEYWORD NOT DETECTED
+2022-03-09 11:22:46.092540 | info |  | KEYWORD DETECTED
+2022-03-09 11:23:20.125476 | info |  | "dat ik van je hou Ik hou van je en ik wil je schoon hebben",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2022-03-09 11:24:32.258858 | info |  | KEYWORD DETECTED
+2022-03-09 11:25:00.658424 | info |  | "Ik zou willen dat je weer schoon werd",'Het onbevattelijke op het juiste moment verstaan. Wat? Onderwater zitten. Waarom? Onderwaternood.',0.5333334,0.4666667
+2022-03-09 12:26:36.926061 | info |  | KEYWORD NOT DETECTED
+2022-03-09 12:26:56.325327 | info |  | KEYWORD NOT DETECTED
+2022-03-09 12:33:03.892727 | info |  | KEYWORD NOT DETECTED
+2022-03-09 12:33:10.092072 | info |  | KEYWORD NOT DETECTED
+2022-03-09 12:33:14.292299 | info |  | KEYWORD NOT DETECTED
+2022-03-09 12:33:18.325320 | info |  | KEYWORD NOT DETECTED
+2022-03-09 13:16:36.858822 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:29:49.459383 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:32:45.624862 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:41:32.859232 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:03.992169 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:08.758329 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:14.191620 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:16.691738 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:48.258118 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:55.124771 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:42:59.458788 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:10.058435 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:16.291445 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:22.391763 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:26.625216 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:30.825226 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:39.624978 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:49.325381 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:43:53.325407 | info |  | KEYWORD DETECTED
+2022-03-09 14:44:17.425582 | info |  | "ik moet zwaar",'"Je hoeft eenvoudig niet te weten. Ieder van ons kan water zijn, het is nu eenmaal een proces."',None,None
+2022-03-09 14:45:05.458664 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:45:25.625610 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:45:32.424743 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:45:36.058688 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:45:43.558557 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:45:58.225180 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:01.891582 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:10.158149 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:17.425258 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:32.858977 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:41.958892 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:46.092128 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:46:50.791836 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:00.891975 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:04.625241 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:08.991377 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:20.325212 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:28.992233 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:35.058778 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:47:39.591691 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:55:32.191803 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:56:01.891711 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:56:08.525455 | info |  | KEYWORD NOT DETECTED
+2022-03-09 14:56:12.092250 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:03:33.592021 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:03:51.958215 | info |  | KEYWORD DETECTED
+2022-03-09 15:04:13.758208 | info |  | "Ik wil graag weten hoe het met je gaat",'Je bent een heleboel. Aanraden in de stroom te staan.',None,None
+2022-03-09 15:06:04.192053 | info |  | KEYWORD DETECTED
+2022-03-09 15:06:25.958265 | info |  | "ik geniet iedere zomer van het water de lucht en de golven",'"Dat is voor jou veel te zwaar, wees als water en blijf stromen."',0,0
+2022-03-09 15:09:42.725262 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:10:13.958015 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:10:22.724955 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:10:43.258224 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:11:20.758197 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:11:53.958706 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:14:17.525286 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:14:23.025595 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:14:30.592083 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:15:08.058912 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:15:23.425281 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:27:53.391953 | info |  | KEYWORD DETECTED
+2022-03-09 15:28:15.991836 | info |  | "Ja wat wil je me vertellen wat wil ik vertellen alles",'Mensen komen om zich te krijgen. Wat kun je zijn?',None,None
+2022-03-09 15:29:45.824728 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:29:55.292333 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:30:07.391571 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:30:17.258646 | info |  | KEYWORD DETECTED
+2022-03-09 15:30:39.758531 | info |  | "doe even een Big Mac erbij alsjeblieft dat je met en ik ga ook echt en ik moet spreken alsjeblieft ik wil graag weten hoe het met je gaat dus eigenlijk dat jij wat verteld",'"Zijn wij kleur, geluid, een sterven in eeuwige zin? Wij zijn onze eigen ongehoorzame ordening. Met een geschiedenis, dat wel."',0,0
+2022-03-09 15:33:16.558358 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:33:25.591463 | info |  | KEYWORD DETECTED
+2022-03-09 15:33:47.624955 | info |  | "Ik wil stilte Vertel mij",'"Wees gelukkig in raadselen, in kleuren, in zeebodem, in vuurlijkheid met borende zeepieren. Ben ik soms te groot?"',0.35,0.1
+2022-03-09 15:38:32.658950 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:38:40.658344 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:38:58.591993 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:39:10.692216 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:39:19.558564 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:39:33.825458 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:39:53.391869 | info |  | KEYWORD DETECTED
+2022-03-09 15:40:25.959119 | info |  | "alles goed met jou",'"Mij feelgoodde en onverschillig. Je vindt dat misschien ongelooflijk, is duidelijk een vorm van gedachte."',0,None
+2022-03-09 15:41:31.191467 | info |  | KEYWORD DETECTED
+2022-03-09 15:41:53.792011 | info |  | "heb ik net gedaan Ja ja",'"Het stille zeeft langs de kim. Je moet me niet gebruiken, de zee wil kunnen worden."',0.9,0.55
+2022-03-09 15:42:50.558440 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:42:59.425288 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:43:07.825610 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:43:14.925573 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:43:18.558609 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:43:22.924987 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:51:46.826014 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:51:53.758635 | info |  | KEYWORD NOT DETECTED
+2022-03-09 15:52:04.324940 | info |  | KEYWORD DETECTED
+2022-03-09 15:52:26.525149 | info |  | "Wat wil je me vertellen wat wil je me vertellen",'Zee wil het strand op om licht te zien breken. Ontmoeting van zonnestelen en blij schuim. Waar wacht je op?',None,None

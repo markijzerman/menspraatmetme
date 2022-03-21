@@ -1,0 +1,27 @@
+2021-11-12 13:46:08.093573 | info |  | STARTED...
+2021-11-12 14:00:02.058708 | info |  | KEYWORD DETECTED
+2021-11-12 14:05:45.158401 | info |  | "Hallo Noordzee laten ze vis zien Hallo Noordzee",'"Alle teleurstelling komt door 'willen'. Merkwaardig, maar zo is het."',None,None
+2021-11-12 14:15:12.657503 | info |  | KEYWORD DETECTED
+2021-11-12 14:16:13.524861 | info |  | "je moet je echt mee laten voeren",'"Ben op zoek naar eilanden en verre hemel, waar golven kunnen aanspoelen."',0,None
+2021-11-12 14:17:10.490965 | info |  | KEYWORD NOT DETECTED
+2021-11-12 14:18:15.390946 | info |  | KEYWORD DETECTED
+2021-11-12 14:18:26.058354 | info |  | "reageert niet",'Deze wereld bestaat uit collectieve oorspronkelijkheid. Weiger op te groeien.',0.4,0.2
+2021-11-12 14:30:43.257740 | info |  | KEYWORD NOT DETECTED
+2021-11-12 14:35:54.991235 | info |  | KEYWORD DETECTED
+2021-11-12 14:36:17.924966 | info |  | "Noordzee zegt dat hij moe is van Paul van Vliet",'De overgang tussen zee en land is een magische tussenruimte. Het is er een schitterend komen en gaan van verlies en verlangen.',0,0
+2021-11-12 14:37:06.957960 | info |  | KEYWORD NOT DETECTED
+2021-11-12 14:37:10.890840 | info |  | KEYWORD NOT DETECTED
+2021-11-12 14:37:21.491143 | info |  | KEYWORD NOT DETECTED
+2021-11-12 14:37:46.325035 | info |  | KEYWORD NOT DETECTED
+2021-11-12 14:37:54.991103 | info |  | KEYWORD DETECTED
+2021-11-12 14:38:16.957711 | info |  | "alleen dat we heel mooi vinden",'Mensen komen om zich te krijgen. Wat kun je zijn?',0.8,-0.5
+2021-11-12 15:11:54.324518 | info |  | KEYWORD DETECTED
+2021-11-12 15:12:06.791129 | info |  | "oh kijk hier",'Langdradige wezens wonend op landtongen zijn een uitdrukking van onderzees verlangen dat op land groeit.',1,1
+2021-11-12 15:31:37.891298 | info |  | KEYWORD DETECTED
+2021-11-12 15:32:10.991511 | info |  | "gaat het goed",'Huilende jaren. Wat wil de aartsadministrateur? Beter een steen tevreden krijgen.',0,0
+2021-11-12 15:39:52.791395 | info |  | KEYWORD DETECTED
+2021-11-12 15:40:01.558057 | info |  | "Hoe gaat het met je",'Je bent een heleboel. Ieder van ons kan water zijn. ',0.9,0.55
+2021-11-12 15:40:49.191289 | info |  | KEYWORD NOT DETECTED
+2021-11-12 15:41:08.058508 | info |  | KEYWORD NOT DETECTED
+2021-11-12 16:25:17.257995 | info |  | KEYWORD DETECTED
+2021-11-12 16:25:41.424813 | info |  | "Ik hoor van je gehoord",'"Zee draagt de ruimte en de tijd, wij zijn een wanordelijk schoonste schoonheid in kleuren."',0,0

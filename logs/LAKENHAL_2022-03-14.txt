@@ -1,0 +1,21 @@
+2022-03-14 10:50:56.877124 | info |  | STARTED...
+2022-03-14 10:55:19.620327 | info |  | QUITTING...
+2022-03-14 10:55:30.732389 | info |  | STARTED...
+2022-03-14 10:56:10.592625 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:13:27.820032 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:13:39.820051 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:13:48.020164 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:13:54.553715 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:13:58.086801 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:14:11.686606 | info |  | KEYWORD DETECTED
+2022-03-14 12:14:34.020239 | info |  | "ja",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2022-03-14 12:15:27.987157 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:15:32.987024 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:15:36.520151 | info |  | KEYWORD NOT DETECTED
+2022-03-14 12:16:16.452758 | info |  | KEYWORD DETECTED
+2022-03-14 12:16:50.520390 | info |  | "maar het staat op zich wel op je",'De waarheid is zo groot. Experimenteer en ontdek wat geweten moet worden.',0,0
+2022-03-14 14:06:01.286993 | info |  | KEYWORD NOT DETECTED
+2022-03-14 14:08:03.019695 | info |  | KEYWORD NOT DETECTED
+2022-03-14 16:02:27.619924 | info |  | KEYWORD NOT DETECTED
+2022-03-14 16:02:37.653581 | info |  | KEYWORD DETECTED
+2022-03-14 16:02:43.086940 | info |  | "is",'Heimwee naar haringen en walvissen in grote scholen. Help te vinden!',0,0

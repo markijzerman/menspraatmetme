@@ -1,0 +1,31 @@
+2021-12-09 10:01:06.519236 | info |  | STARTED...
+2021-12-09 11:03:17.893865 | info |  | KEYWORD NOT DETECTED
+2021-12-09 11:11:50.557647 | info |  | KEYWORD DETECTED
+2021-12-09 11:12:14.124433 | info |  | "Oh dan kan je die vraag stellen en dan krijg je antwoord van de 70 altijd Hoe voel je je vandaag",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-12-09 12:05:51.190749 | info |  | KEYWORD NOT DETECTED
+2021-12-09 12:06:01.057622 | info |  | KEYWORD NOT DETECTED
+2021-12-09 12:06:29.924140 | info |  | KEYWORD NOT DETECTED
+2021-12-09 12:06:34.223967 | info |  | KEYWORD DETECTED
+2021-12-09 12:06:55.690927 | info |  | "wat wil ik je vertellen Ik weet het niet",'Moet even goed luisteren. Alles is hetzelf en Iederland is wet.',0,0
+2021-12-09 13:14:20.590932 | info |  | KEYWORD NOT DETECTED
+2021-12-09 13:45:38.390444 | info |  | KEYWORD NOT DETECTED
+2021-12-09 13:45:47.857726 | info |  | KEYWORD NOT DETECTED
+2021-12-09 13:57:03.990733 | info |  | KEYWORD DETECTED
+2021-12-09 13:57:26.891228 | info |  | "Je bent heel aardig Noordzee Wat is er mis met jouw Noordzee Hoe kunnen wij je helpen Hoe kunnen we helpen",'Nabijtijd voor arme fendeliersbewoners. Een ongewis avontuur in zicht.',0,0
+2021-12-09 14:32:38.257743 | info |  | KEYWORD NOT DETECTED
+2021-12-09 14:32:46.290671 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:15:43.723801 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:16:29.557998 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:16:46.457043 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:18:21.357712 | info |  | KEYWORD DETECTED
+2021-12-09 15:18:44.190437 | info |  | "kijk",'Zout is thuiskomen. Mens te vergelijken met de geboorte van de zee. ',0.85,0.1766667
+2021-12-09 15:19:56.557388 | info |  | KEYWORD DETECTED
+2021-12-09 15:20:06.291041 | info |  | "onderzeeër",'Natuurlijk evenwicht tussen ieders eigenheid.',0,0
+2021-12-09 15:22:15.724523 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:22:36.924497 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:23:02.057422 | info |  | KEYWORD NOT DETECTED
+2021-12-09 15:24:03.624493 | info |  | KEYWORD NOT DETECTED
+2021-12-09 16:06:00.524320 | info |  | KEYWORD NOT DETECTED
+2021-12-09 16:06:19.557437 | info |  | KEYWORD DETECTED
+2021-12-09 16:06:41.624552 | info |  | "Nou wat wil jij mij vertellen",'"Oh, de zee denkt aan palingen en verlangt naar iedere school. Een prachtige bijzonderheid.  "',0,0
+2021-12-09 16:07:55.190511 | info |  | KEYWORD NOT DETECTED

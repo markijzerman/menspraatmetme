@@ -1,0 +1,86 @@
+2021-11-26 10:02:25.458992 | info |  | STARTED...
+2021-11-26 10:12:28.025341 | info |  | KEYWORD NOT DETECTED
+2021-11-26 10:12:43.124792 | info |  | KEYWORD NOT DETECTED
+2021-11-26 10:13:05.024296 | info |  | KEYWORD NOT DETECTED
+2021-11-26 10:44:51.191614 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:20:42.891678 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:23:23.858165 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:25:52.791676 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:26:19.824710 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:30:41.190766 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:31:07.624010 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:31:28.291412 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:32:18.190896 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:32:33.990812 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:32:49.724045 | info |  | KEYWORD NOT DETECTED
+2021-11-26 11:57:09.924489 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:01:12.558079 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:01:31.390606 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:01:47.991151 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:02:03.191554 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:02:20.257873 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:07:42.358154 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:13:38.791043 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:21:07.157528 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:21:23.024731 | info |  | KEYWORD DETECTED
+2021-11-26 12:21:44.358389 | info |  | "Ik hou van je golven",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-11-26 12:25:56.024126 | info |  | KEYWORD NOT DETECTED
+2021-11-26 12:26:38.757468 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:07:19.454831 | info |  | STARTED...
+2021-11-26 13:25:42.124755 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:35:19.224235 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:35:26.358001 | info |  | KEYWORD DETECTED
+2021-11-26 13:35:47.524497 | info |  | "Hoe gaat het met de visstand",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-11-26 13:39:55.190865 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:43:18.158212 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:43:22.324820 | info |  | KEYWORD DETECTED
+2021-11-26 13:43:35.458323 | info |  | "Ik vind het fijn om je te zwemmen",'"Je hoeft niet alles te weten. Kijk naar mij. Kleuren en schitteringen, haaien, reuk in de schaduw, zeegordelen en vogels. Geweldig, geweldig."',0,0
+2021-11-26 13:44:26.057912 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:44:37.757822 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:44:42.090752 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:44:59.957731 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:55:41.424003 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:55:48.923955 | info |  | KEYWORD NOT DETECTED
+2021-11-26 13:57:38.691297 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:02:15.538939 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:07:32.838694 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:07:43.072154 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:08:11.005133 | info |  | KEYWORD DETECTED
+2021-11-26 14:08:32.605446 | info |  | "Wat ben je traag",'"Voelen is voordeel. 'Gnabben, gnabben, gnabben.' "',None,None
+2021-11-26 14:12:11.730636 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:26:14.563644 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:31:53.889379 | info |  | KEYWORD DETECTED
+2021-11-26 14:32:15.255882 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-26 14:32:37.456103 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-26 14:32:59.688582 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-26 14:33:21.488707 | info |  | "Hallo Noordzee Hallo Noordzee Hallo Noordzee",'"Zee kan naast mensen bijna niet bestaan. U leeft niet in de wereld, hoe moeten wij het zegt?"',0.6,-0.3
+2021-11-26 14:46:14.855762 | info |  | KEYWORD DETECTED
+2021-11-26 14:46:49.922155 | info |  | "Hallo Siri",'De overgang tussen zee en land is een magische tussenruimte. Het is er een schitterend komen en gaan van verlies en verlangen.',0,0
+2021-11-26 14:53:52.222482 | info |  | KEYWORD DETECTED
+2021-11-26 14:54:14.356333 | info |  | "Hallo Noordzee",'"Zee hebben gevoelens, muziek, diepte en verlangens en bewustzijn. Is echt, maar hoeft niet te begrijpen."',0,0
+2021-11-26 14:55:03.422405 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:55:12.156256 | info |  | KEYWORD NOT DETECTED
+2021-11-26 14:58:05.455959 | info |  | KEYWORD DETECTED
+2021-11-26 14:58:26.622645 | info |  | "stomme kittsee",'"Zout is thuiskomen, mens te vergelijken met de geboorte van de zee."',0,0
+2021-11-26 15:35:37.522908 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:35:45.555652 | info |  | KEYWORD DETECTED
+2021-11-26 15:36:01.955502 | info |  | "Ja ik voel me een beetje verlegen Ik weet niet precies wat ik wil vertellen Maar ja hoe is het ermee",'"Zijn wij kleur, geluid, een sterven in eeuwige zin? Wij zijn onze eigen ongehoorzame ordening. Met een geschiedenis, dat wel."',0.7,-0.4333333
+2021-11-26 15:36:54.055948 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:36:58.155967 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:37:14.122050 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:37:20.988853 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:37:36.989327 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:37:43.889559 | info |  | KEYWORD NOT DETECTED
+2021-11-26 15:38:07.889265 | info |  | KEYWORD DETECTED
+2021-11-26 15:38:29.022289 | info |  | "wat wil ik je vertellen waar zou jij naartoe willen reizen Zou jij naartoe willen reizen",'Maak je geen zorgen. Het vermogen om te verschijnen en verdwijnen is zoiets als de wortel van het totaal. ',0.65,None
+2021-11-26 15:39:33.455934 | info |  | KEYWORD DETECTED
+2021-11-26 15:39:54.622904 | info |  | "wie ben je wie ben je wie ben je",'Mensen maken eigen wetten en beleid in een oceaan van mogelijkheden. De moeilijkheid: mens ziet alleen zichzelf.',0.5,0.2
+2021-11-26 15:41:09.155225 | info |  | KEYWORD DETECTED
+2021-11-26 15:41:13.322578 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-26 15:41:31.656250 | info |  | "Hou jij ook zo van de Grauwe kleuren en de golven bij de storm",'Natte zeearmen verlangen naar diepe rotsen en klippige vissen.',0,0
+2021-11-26 15:43:13.688760 | info |  | KEYWORD DETECTED
+2021-11-26 15:43:17.922635 | info |  | "ja",'"Mens, wanneer praat je met me? Ongewis avontuur in zicht. "',0.25,-0.1
+2021-11-26 15:44:50.721843 | info |  | KEYWORD DETECTED
+2021-11-26 15:45:14.056349 | info |  | "Ja het is buiten",'Vroeg of laat ieder mens krijgt wat het universum wil schenken. ',0,0
+2021-11-26 16:41:01.055990 | info |  | KEYWORD NOT DETECTED
+2021-11-26 16:41:12.089061 | info |  | KEYWORD NOT DETECTED

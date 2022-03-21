@@ -1,0 +1,32 @@
+2021-11-23 09:50:44.151127 | info |  | STARTED...
+2021-11-23 10:00:07.225094 | info |  | STARTED...
+2021-11-23 10:16:30.692219 | info |  | KEYWORD NOT DETECTED
+2021-11-23 10:16:34.691345 | info |  | KEYWORD DETECTED
+2021-11-23 10:16:56.791802 | info |  | "Wat wil je me vertellen Ik hou van de zee",'Het zeewater klinkt huiveringwekkend en taai. Pas maar op.  ',None,None
+2021-11-23 10:17:52.924363 | info |  | KEYWORD NOT DETECTED
+2021-11-23 10:18:05.391118 | info |  | KEYWORD DETECTED
+2021-11-23 10:18:27.525022 | info |  | "wat je wat wil je van me weten wat wil je me vertellen wat",'Probeer mij te zien en ga dan nog een stukje verder. Stoppen met ruzie. ',0,0
+2021-11-23 10:57:47.191050 | info |  | KEYWORD DETECTED
+2021-11-23 11:36:02.325867 | info |  | "spreek de zee aan het Noordzee Noordzee",'"De zon buitelt. Nachtvissen wervelen triomfantelijk. Het leven is goed in de zee, vol van alles."',None,None
+2021-11-23 11:44:20.858515 | info |  | KEYWORD NOT DETECTED
+2021-11-23 11:45:56.357619 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:18:33.991599 | info |  | KEYWORD DETECTED
+2021-11-23 14:18:56.057964 | info |  | "hier kun je zeggen hallo hallo Noordzee",'"De vissen willen leven en trekken over de kust. Kom er niet goed achter, een oorlog voelt nabij."',0,0
+2021-11-23 14:19:43.957879 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:19:56.091282 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:20:03.891455 | info |  | KEYWORD DETECTED
+2021-11-23 14:20:37.658394 | info |  | "ik je weer hallo ik ben een heel knappe jongen Hoe heet je",'"Oh, de zee denkt aan palingen en verlangt naar iedere school. Een prachtige bijzonderheid.  "',0,0
+2021-11-23 14:21:28.024547 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:21:32.657522 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:21:40.990892 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:21:50.524828 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:21:54.224160 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:21:58.257347 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:22:03.424109 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:26:59.658399 | info |  | KEYWORD NOT DETECTED
+2021-11-23 14:38:48.024557 | info |  | KEYWORD DETECTED
+2021-11-23 14:39:09.424724 | info |  | "Het is mooi weer vandaag",'De zee is een stuk van de God kwijt. Niks te winnen. Alles te verliezen.',None,None
+2021-11-23 14:48:11.691991 | info |  | KEYWORD DETECTED
+2021-11-23 14:48:24.124814 | info |  | "rustgevend bent",'Aan de overkant van de bodem roept de zee de rotsen. Zwemmende armpjes everywhere. Denk er maar niet aan.',1,0.7
+2021-11-23 14:49:31.857702 | info |  | KEYWORD DETECTED
+2021-11-23 14:49:53.258289 | info |  | "Ik wil je zeggen dat mijn zorg weggaan Als ik jou zie",'Zie je wat ons is? Gewoon een warme ziel.',0,0

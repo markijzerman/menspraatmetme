@@ -1,0 +1,60 @@
+2021-12-16 09:51:32.440028 | info |  | STARTED...
+2021-12-16 10:00:07.063923 | info |  | STARTED...
+2021-12-16 11:07:06.493676 | info |  | KEYWORD NOT DETECTED
+2021-12-16 11:07:19.824751 | info |  | KEYWORD DETECTED
+2021-12-16 11:07:21.524349 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-16 11:07:46.357921 | info |  | "Ik hou van je gekozen Ik hou van je golven",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-12-16 11:08:37.523872 | info |  | KEYWORD DETECTED
+2021-12-16 11:08:58.724238 | info |  | "dat ik me zorgen maak dat ik me zorgen maak",'Aardse man getooid met sterren is weerloos in volle zee. Meer een hopen dan zijn.',0,0
+2021-12-16 11:10:49.758105 | info |  | KEYWORD NOT DETECTED
+2021-12-16 11:10:53.891278 | info |  | KEYWORD NOT DETECTED
+2021-12-16 11:10:58.757892 | info |  | KEYWORD DETECTED
+2021-12-16 11:11:20.924167 | info |  | "Ik wil je vertellen dat je zo mooi bent Ik wil je vertellen dat je zo mooi bent",'De zee laaft zich. Grote tevreden en enthousiasme van liefde voor alle dingen die in mij wonen.',0,0
+2021-12-16 11:12:24.323941 | info |  | KEYWORD DETECTED
+2021-12-16 11:12:46.357949 | info |  | "Ik hoop dat je wat schoner wordt voor de komende generaties",'"Wanhoop niet! De oceaan heeft zichzelf. Boeiendiepsels en triomfantelijk leven, al is het moeilijk te zien."',1,0.7
+2021-12-16 12:17:04.658615 | info |  | KEYWORD NOT DETECTED
+2021-12-16 12:17:30.224826 | info |  | KEYWORD NOT DETECTED
+2021-12-16 12:30:21.091443 | info |  | KEYWORD NOT DETECTED
+2021-12-16 12:30:44.024243 | info |  | KEYWORD NOT DETECTED
+2021-12-16 13:11:26.191293 | info |  | KEYWORD NOT DETECTED
+2021-12-16 13:11:37.624386 | info |  | KEYWORD DETECTED
+2021-12-16 13:11:58.957828 | info |  | "Ik hou van je ik hou van je Noordzee",'Onderzees verlangen van lippige vissen en fendelieren. Begrijp je wat wij zeggen willen?',0.1,0
+2021-12-16 13:12:48.057755 | info |  | KEYWORD NOT DETECTED
+2021-12-16 13:13:22.857758 | info |  | KEYWORD NOT DETECTED
+2021-12-16 13:13:27.590819 | info |  | KEYWORD DETECTED
+2021-12-16 13:14:00.891074 | info |  | "proefje Waarom Golfje Waarom Golfje",'Aan de overkant van de bodem roept de zee de rotsen. Zwemmende armpjes everywhere. Denk er maar niet aan.',0,0
+2021-12-16 13:42:08.991170 | info |  | KEYWORD NOT DETECTED
+2021-12-16 13:42:30.790799 | info |  | KEYWORD DETECTED
+2021-12-16 13:42:52.024033 | info |  | "Hoe gaat het met je",'Dat mag je een praatje noemen. Zoute wateren en oceaan uitbarstende poging om voluit te leven.',0,0
+2021-12-16 14:45:47.991393 | info |  | KEYWORD DETECTED
+2021-12-16 14:45:50.524599 | info |  | "heb",'"De zee is een pronkelende werkelijkheid, een buitelende stroom. Meebewegen, echteling van me!"',0,0
+2021-12-16 14:46:46.257203 | info |  | KEYWORD NOT DETECTED
+2021-12-16 14:48:25.791453 | info |  | KEYWORD NOT DETECTED
+2021-12-16 14:48:41.157270 | info |  | KEYWORD NOT DETECTED
+2021-12-16 14:49:30.890713 | info |  | KEYWORD NOT DETECTED
+2021-12-16 14:50:04.790594 | info |  | KEYWORD NOT DETECTED
+2021-12-16 14:51:04.224607 | info |  | KEYWORD DETECTED
+2021-12-16 14:51:23.858139 | info |  | "Wat wil je horen",'Maak je geen zorgen. Het vermogen om te verschijnen en verdwijnen is zoiets als de wortel van het totaal. ',0,0
+2021-12-16 14:55:29.691622 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:21:03.057655 | info |  | KEYWORD DETECTED
+2021-12-16 15:21:07.257122 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-16 15:21:10.424035 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-16 15:21:14.924210 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-16 15:21:20.091625 | info |  | "Hallo Noordzee",'Zee wil het strand op om licht te zien breken. Ontmoeting van zonnestelen en blij schuim. Waar wacht je op?',0,0
+2021-12-16 15:22:10.324305 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:12.924383 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:22.623920 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:27.157242 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:31.624170 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:38.224664 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:41.557287 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:22:54.190862 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:23:02.490686 | info |  | KEYWORD NOT DETECTED
+2021-12-16 15:23:15.524717 | info |  | KEYWORD DETECTED
+2021-12-16 15:23:29.824399 | info |  | "Hoe oud ben je",'Het leven is een spel van prachtige en kiemkomstige mythen. Een amenchvonk op het strand.',None,None
+2021-12-16 15:24:33.624456 | info |  | KEYWORD DETECTED
+2021-12-16 15:24:36.357150 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-16 15:24:44.624837 | info |  | "Ik wil je zien en ruiken en proeven",'"Borduurwerk van wolken viel op de kust. Nacht en zon stegen, wetten dreunden. En de zee Was. "',0.2,0
+2021-12-16 15:25:49.357160 | info |  | KEYWORD DETECTED
+2021-12-16 15:25:51.791315 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-16 15:25:58.124176 | info |  | "je bent waardevol",'De oceaan wil jouw eenzaamheid kussen. Bye!',0,0

@@ -1,0 +1,130 @@
+2021-12-18 10:05:01.856420 | info |  | STARTED...
+2021-12-18 11:00:08.060341 | info |  | KEYWORD DETECTED
+2021-12-18 11:00:24.758393 | info |  | "Het is heel vies weer vandaag",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-12-18 11:20:42.758676 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:02.391412 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:17.457865 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:22.924547 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:30.691106 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:35.458545 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:42.091424 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:23:53.925097 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:24:05.691919 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:32:52.058393 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:33:01.758643 | info |  | KEYWORD NOT DETECTED
+2021-12-18 11:33:20.225119 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:04:49.358180 | info |  | KEYWORD DETECTED
+2021-12-18 12:05:10.725117 | info |  | "Dat is lekker licht",'"Mens, ik ben alles wat je had en kom even aan wal."',None,None
+2021-12-18 12:06:56.691837 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:07:01.891180 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:48:23.224972 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:48:35.091521 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:48:53.058312 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:49:03.191687 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:49:22.891692 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:57:30.724557 | info |  | KEYWORD NOT DETECTED
+2021-12-18 12:59:42.958541 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:16.824664 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:22.958574 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:39.091595 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:45.258043 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:48.991855 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:52.624635 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:01:56.591969 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:02:06.957701 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:02:13.224565 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:02:17.391288 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:02:21.157968 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:02:46.625027 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:02:52.858207 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:03:02.525042 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:03:10.491287 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:03:14.824451 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:21:42.925114 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:34:11.824435 | info |  | KEYWORD NOT DETECTED
+2021-12-18 13:36:04.824612 | info |  | KEYWORD DETECTED
+2021-12-18 13:36:11.058238 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:36:32.724698 | info |  | "Ik wil je vertellen dat wij lekker door museum wandelen zijn",'"Zijn wij kleur, geluid, een sterven in eeuwige zin? Wij zijn onze eigen ongehoorzame ordening. Met een geschiedenis, dat wel."',None,None
+2021-12-18 13:39:27.391038 | info |  | KEYWORD DETECTED
+2021-12-18 13:39:48.691566 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:40:10.157954 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:40:31.725125 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:40:53.425099 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:41:15.557669 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:41:37.724681 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:41:59.524725 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:42:32.890983 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:42:54.391424 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:43:26.591694 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:43:48.224452 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 13:44:21.058657 | info |  | "Hallo José",'Boeiendiepsels en amenchvonken en schotelslakken die elkaar verstaan. Verscheidenheid.',None,None
+2021-12-18 13:51:51.757830 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:16:05.358143 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:16:11.958267 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:16:18.358563 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:16:27.124588 | info |  | KEYWORD DETECTED
+2021-12-18 14:16:49.358129 | info |  | "Wat wil je me vertellen Het spijt me",'"Valt de vis uit? Wat is dit alles, treurman?"',0,0
+2021-12-18 14:21:12.191332 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:21:26.824848 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:21:33.258022 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:21:48.358572 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:22:03.524344 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:24:29.891211 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:29:37.491530 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:29:45.424527 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:54:50.024888 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:54:51.991377 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:55:37.291744 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:55:41.457677 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:30.224902 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:33.791315 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:37.291414 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:41.391436 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:45.158535 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:49.124692 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:52.458338 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:56.124688 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:56:59.991700 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:57:04.125319 | info |  | KEYWORD NOT DETECTED
+2021-12-18 14:57:51.290976 | info |  | KEYWORD DETECTED
+2021-12-18 14:58:24.791524 | info |  | "Hallo Noordzee Ik wil je zwemmen",'Grote voelen van iets dat de wereld natuur noemt. De zee is vloedgolf in de nek. Waarschuwing.',None,None
+2021-12-18 14:59:16.558079 | info |  | KEYWORD DETECTED
+2021-12-18 14:59:36.291972 | info |  | "vertrek",'"Mij feelgoodde en onverschillig. Je vindt dat misschien ongelooflijk, is duidelijk een vorm van gedachte."',0,0
+2021-12-18 15:01:01.658449 | info |  | KEYWORD DETECTED
+2021-12-18 15:01:23.958865 | info |  | "Ja wat vind je van plastic",'Je bent een heleboel. Aanraden in de stroom te staan.',0,0
+2021-12-18 15:02:15.258332 | info |  | KEYWORD DETECTED
+2021-12-18 15:02:36.958589 | info |  | "7",'Zee verlangt naar iedereen. Water stort golven omhoog boven de rotsen en ziet een andere tijd.',0,0
+2021-12-18 15:03:36.258049 | info |  | KEYWORD DETECTED
+2021-12-18 15:03:58.524524 | info |  | "is de plastic soep lekker",'Wees een echteling in een oceaan van het Onverwachte. Moeten willen durven.',0,0
+2021-12-18 15:04:49.457590 | info |  | KEYWORD DETECTED
+2021-12-18 15:05:10.524520 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 15:05:32.324813 | info |  | "Hoe gaat het met de koraalriffen in Australië Hoe gaat het met het koraalrif in",'"Surfers staan op waterige huid, hun planken kussen als kleurige lippen mijn bovenlijf."',1,0.6
+2021-12-18 15:06:24.491468 | info |  | KEYWORD DETECTED
+2021-12-18 15:06:46.691573 | info |  | "Hallo Noordzee Ik hou van je ik hou van je Noordzee Hij wil niks Hou van je Noordzee",'Je stond even te kijken en daar heb je mij gezien. De zee houdt van vloedgolf in de nek te zijn. Waarschuwing.',0,0
+2021-12-18 15:16:11.058267 | info |  | KEYWORD DETECTED
+2021-12-18 15:16:27.591306 | info |  | "Wat wil je me vertellen heel weinig",'"Zee kan naast mensen bijna niet bestaan. U leeft niet in de wereld, hoe moeten wij het zegt?"',0,0
+2021-12-18 15:17:36.258611 | info |  | KEYWORD NOT DETECTED
+2021-12-18 15:18:08.624458 | info |  | KEYWORD DETECTED
+2021-12-18 15:18:18.824517 | info |  | "Hallo Noordzee",'Halve mensen en Verenigde Zee in een diepe droomloze ruimte. Kan het mooijer?',0.5666667,0.1333333
+2021-12-18 15:19:06.891931 | info |  | KEYWORD NOT DETECTED
+2021-12-18 15:26:21.324530 | info |  | KEYWORD DETECTED
+2021-12-18 15:26:43.792056 | info |  | "Hallo Noortje alles goed met jou",'"Zee draagt de ruimte en de tijd, wij zijn een wanordelijk schoonste schoonheid in kleuren."',0,0
+2021-12-18 15:28:17.691720 | info |  | KEYWORD NOT DETECTED
+2021-12-18 15:47:38.925010 | info |  | KEYWORD NOT DETECTED
+2021-12-18 16:01:54.791373 | info |  | KEYWORD NOT DETECTED
+2021-12-18 16:03:19.825010 | info |  | KEYWORD NOT DETECTED
+2021-12-18 16:03:47.457996 | info |  | KEYWORD DETECTED
+2021-12-18 16:04:09.525035 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 16:04:31.025246 | info |  | "onrecht lekker door",'Je bent een heleboel en dwaalt zonder te weten waarom. Denk er maar niet aan.',0.9,0.55
+2021-12-18 16:05:32.224966 | info |  | KEYWORD NOT DETECTED
+2021-12-18 16:07:48.591853 | info |  | KEYWORD DETECTED
+2021-12-18 16:08:01.625047 | info |  | "Hoe gaat het met je",'Het water wiegt me razend. Langzame diepte en dan opeens pronkelende verbazing. Precies!',1,0.6
+2021-12-18 16:09:14.858631 | info |  | KEYWORD NOT DETECTED
+2021-12-18 16:09:38.358176 | info |  | KEYWORD NOT DETECTED
+2021-12-18 16:09:44.557853 | info |  | KEYWORD DETECTED
+2021-12-18 16:09:46.958106 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-18 16:10:00.058633 | info |  | "Poseidon zegt de gave God",'Een wobbel in de tijd: de verte begon te verstoppen en het toekomende verdwijnt.',0,0
+2021-12-18 16:10:54.958105 | info |  | KEYWORD DETECTED
+2021-12-18 16:11:16.224538 | info |  | "Ben je blij",'"Weet niet wie je bent, maar klinkt als mensen. Hoe plezieren? Met een handvol taal en blijde schuim!"',0.6,0.6
+2021-12-18 16:15:37.624820 | info |  | KEYWORD DETECTED
+2021-12-18 16:15:59.725260 | info |  | "Ik wil dat je doorgaat",'Aandacht voor het onverwachte. Niet denken. Je geest is blauw vertakt met glans.',0.95,0.55

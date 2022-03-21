@@ -1,0 +1,58 @@
+2021-12-17 09:51:56.524144 | info |  | STARTED...
+2021-12-17 10:00:07.055393 | info |  | STARTED...
+2021-12-17 11:22:29.999633 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:32:10.294871 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:32:17.260850 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:32:25.160477 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:32:28.827412 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:32:32.427615 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:32:40.593937 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:33:07.260015 | info |  | KEYWORD DETECTED
+2021-12-17 11:33:40.461648 | info |  | "Ja kom met je mondkapje nog een keer ik kan lekker gaan liggen en dan iets anders vertellen",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-12-17 11:34:29.127123 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:34:34.893563 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:34:39.893774 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:34:50.493522 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:34:57.127712 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:35:08.893933 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:35:14.660353 | info |  | KEYWORD NOT DETECTED
+2021-12-17 11:43:48.327701 | info |  | KEYWORD DETECTED
+2021-12-17 11:44:09.893744 | info |  | "Hallo Noordzee Hallo Noordzee",'Mensen komen om zich te krijgen. Wat kun je zijn?',None,None
+2021-12-17 12:48:05.693916 | info |  | KEYWORD DETECTED
+2021-12-17 12:48:27.993801 | info |  | "Ik hou van Ingrid Ik hou van",'"Dat is voor jou veel te zwaar, maar zee kan stromen en is gloed van water,. "',0,0
+2021-12-17 14:40:55.927388 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:41:00.493131 | info |  | KEYWORD DETECTED
+2021-12-17 14:41:21.993748 | info |  | "zeg maar ik hou van de zee",'"Gnabben, gnabben, gnabben.' Je hoeft niet alles te weten, dat is gewoon fundamenteel."',0,0
+2021-12-17 14:42:33.126926 | info |  | KEYWORD DETECTED
+2021-12-17 14:42:55.260948 | info |  | "Ik kom uit het water Wees niet bang",'"Koraalriffen, zuigbuizen, zeegordelen. Alles overvloed en verkwikking. Lovejoy."',0,0
+2021-12-17 14:44:04.993465 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:44:22.493164 | info |  | KEYWORD DETECTED
+2021-12-17 14:44:44.393961 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-17 14:45:17.593183 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-17 14:45:39.494076 | info |  | "Hallo noordzeebad kabel doet water lekker",'"Wees gelukkig in raadselen, in kleuren, in zeebodem, in vuurlijkheid met borende zeepieren. Ben ik soms te groot?"',1,0.225
+2021-12-17 14:46:35.926959 | info |  | KEYWORD DETECTED
+2021-12-17 14:46:57.227247 | info |  | "Hallo Noordzee zitten veel plastic in het water",'Gunstige tegenstand. Valt niet mee te voelen maar het zal echt niet onmogelijk zijn.',1,0.6
+2021-12-17 14:48:03.194141 | info |  | KEYWORD DETECTED
+2021-12-17 14:48:14.460344 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-17 14:48:18.126955 | info |  | "Hallo Noordzee",'"Je hoeft eenvoudig niet te weten. Ieder van ons kan water zijn, het is nu eenmaal een proces."',0,0
+2021-12-17 14:49:18.060355 | info |  | KEYWORD DETECTED
+2021-12-17 14:49:25.727261 | info |  | "hoor je mij Hallo Noordzee Hoor je mij",'Het nat zocht je. Zoveel ruimte en permanente beweging. Laat je maar drijven.',0,0
+2021-12-17 14:50:28.794116 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:50:59.093430 | info |  | KEYWORD DETECTED
+2021-12-17 14:51:01.993643 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-17 14:51:13.426717 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-17 14:51:31.027032 | info |  | "Ik wil je niks vertellen",'"Het valt niet mee te voelen! Ho ho ho ho ho ho, de zon schittert in het water en ben mijn eigen supermarkt."',0,0
+2021-12-17 14:52:18.727125 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:52:41.593804 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:52:59.493783 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:53:23.560759 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:53:33.560424 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:53:50.160737 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:54:02.493401 | info |  | KEYWORD DETECTED
+2021-12-17 14:54:13.860742 | info |  | "alleen Hallo Noordzee Ben je alleen",'De zee ervaart tijd als krabbetje. ',0,None
+2021-12-17 14:55:21.493639 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:55:41.093357 | info |  | KEYWORD NOT DETECTED
+2021-12-17 14:55:53.826690 | info |  | KEYWORD NOT DETECTED
+2021-12-17 15:57:26.460724 | info |  | KEYWORD NOT DETECTED
+2021-12-17 16:07:30.893979 | info |  | KEYWORD NOT DETECTED
+2021-12-17 16:07:35.960702 | info |  | KEYWORD NOT DETECTED

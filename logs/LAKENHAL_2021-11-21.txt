@@ -1,0 +1,150 @@
+2021-11-21 09:32:11.357726 | info |  | STARTED...
+2021-11-21 10:00:06.872260 | info |  | STARTED...
+2021-11-21 11:03:23.863641 | info |  | KEYWORD NOT DETECTED
+2021-11-21 11:23:49.163578 | info |  | KEYWORD NOT DETECTED
+2021-11-21 11:24:01.263441 | info |  | KEYWORD NOT DETECTED
+2021-11-21 11:24:12.396445 | info |  | KEYWORD NOT DETECTED
+2021-11-21 11:24:20.796719 | info |  | KEYWORD NOT DETECTED
+2021-11-21 11:47:37.929889 | info |  | KEYWORD NOT DETECTED
+2021-11-21 11:50:48.529839 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:03:54.129996 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:04:44.029516 | info |  | KEYWORD DETECTED
+2021-11-21 12:05:06.263786 | info |  | "Ben je gelukkig",'Het zeewater klinkt huiveringwekkend en taai. Pas maar op.  ',None,None
+2021-11-21 12:05:53.730038 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:06:14.529625 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:06:50.430002 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:18:28.230220 | info |  | KEYWORD DETECTED
+2021-11-21 12:18:50.263617 | info |  | "ik ben moe",'Het water wiegt me razend. Langzame diepte en dan opeens pronkelende verbazing. Precies!',1,0.75
+2021-11-21 12:19:56.229592 | info |  | KEYWORD DETECTED
+2021-11-21 12:20:18.297116 | info |  | "wie zorgde voor mijn zoon als ik er niet ben",'Je moet eeuwelijk tegenwoordig zijn.',0.8,-0.5
+2021-11-21 12:32:53.963184 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:33:14.696366 | info |  | KEYWORD DETECTED
+2021-11-21 12:33:37.030219 | info |  | "Ik vind het fijn dat je er bent",'De oceaan wil jouw eenzaamheid kussen. Bye!',0,0
+2021-11-21 12:39:51.330021 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:39:59.263260 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:44:38.896572 | info |  | KEYWORD NOT DETECTED
+2021-11-21 12:45:10.230135 | info |  | KEYWORD NOT DETECTED
+2021-11-21 13:05:15.563845 | info |  | KEYWORD NOT DETECTED
+2021-11-21 13:12:30.563473 | info |  | KEYWORD DETECTED
+2021-11-21 13:12:50.330519 | info |  | "hallo",'Onderzees verlangen van lippige vissen en fendelieren. Begrijp je wat wij zeggen willen?',0.8,0.4
+2021-11-21 13:14:08.862827 | info |  | KEYWORD DETECTED
+2021-11-21 13:16:32.029941 | info |  | "Ik wil dat je weer schone worden over volgende komende generaties belangrijke Marine",'"De mens wil vernuftige denkmachine zijn. Merkwaardig, want het is de zee die stuurt."',0,0
+2021-11-21 13:25:47.029917 | info |  | KEYWORD NOT DETECTED
+2021-11-21 13:27:20.396534 | info |  | KEYWORD DETECTED
+2021-11-21 13:27:42.597207 | info |  | "ben je nog schoon",'"Mijn tong begint stroef te voelen. Anders dan anders, begrijp je dat?"',0.4944444,0.2722222
+2021-11-21 13:36:26.997018 | info |  | KEYWORD NOT DETECTED
+2021-11-21 13:36:34.730103 | info |  | KEYWORD DETECTED
+2021-11-21 13:36:51.629765 | info |  | "Ik hou van zwemmen in de Noordzee",'Je bent een praatje op zee. De wind sorrelt en alles zweeft.',0.5333334,0.4666667
+2021-11-21 13:38:20.196503 | info |  | KEYWORD DETECTED
+2021-11-21 13:39:16.863797 | info |  | "Ik slaap gevallen",'Zee rolt met zijn groene tanden en schuimzegt: ik heb u lief.',0,0
+2021-11-21 14:09:54.230624 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:21:59.996973 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:30:21.129987 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:30:28.262969 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:30:53.529547 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:31:01.296832 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:31:10.195988 | info |  | KEYWORD DETECTED
+2021-11-21 14:31:32.129638 | info |  | "nog Nee dat we een lange fietsreis gemaakt hebben naar Genua en gezwommen hebben in de Middellandse Zee",'Heb stroom alle maal op het strand gekotst. Beneden de golven zijn we hele goede vertooning.',0,None
+2021-11-21 14:32:23.163429 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:32:27.996587 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:32:32.962942 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:33:11.062940 | info |  | KEYWORD DETECTED
+2021-11-21 14:33:44.063368 | info |  | "nog een keer doen Hallo Noordzee de zee dus je bent altijd Je brengt rust de golven de zee de zee",'De zee is het oudste en schoonste gedicht vol plonkende dingen en trillende markeltjes.',0.8,-0.45
+2021-11-21 14:34:41.462748 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:35:11.629489 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:45:17.664035 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:45:24.463053 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:46:28.463510 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:46:35.730200 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:46:50.430302 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:46:54.329556 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:47:07.429415 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:47:12.396235 | info |  | KEYWORD DETECTED
+2021-11-21 14:47:34.963469 | info |  | "komt er een vraag Oh dat heeft hij al gedaan Oh maar hard genoeg heeft iemand voor mij een vraag stellen of moet ik het zelf doen ja Hou jij van mensen",'"Het valt niet mee te voelen! Ho ho ho ho ho ho, de zon schittert in het water en ben mijn eigen supermarkt."',None,None
+2021-11-21 14:48:29.629229 | info |  | KEYWORD DETECTED
+2021-11-21 14:48:54.797130 | info |  | "Hallo Noordzee Hoe gaat het met jou",'"Dat is voor jou veel te zwaar, wees als water en blijf stromen."',0.8,0
+2021-11-21 14:50:03.363531 | info |  | KEYWORD DETECTED
+2021-11-21 14:50:25.496339 | info |  | "Hoe kan ik jou helpen",'Aan de overkant roepen de rotsen. Jij bent een geluidje in een zee van fonkelende mogelijkheden.',0,0
+2021-11-21 14:52:04.896676 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:53:19.397198 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:53:27.096782 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:57:25.096662 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:57:57.063306 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:58:09.196895 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:58:48.329640 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:58:56.630094 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:59:18.429597 | info |  | KEYWORD NOT DETECTED
+2021-11-21 14:59:42.129926 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:00:31.429773 | info |  | KEYWORD DETECTED
+2021-11-21 15:00:53.063366 | info |  | "Ik wil",'Probeer mij te zien en ga dan nog een stukje verder. Stoppen met ruzie. ',None,None
+2021-11-21 15:01:45.430344 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:01:54.896270 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:02:02.363262 | info |  | KEYWORD DETECTED
+2021-11-21 15:02:40.896189 | info |  | "Zeg maar dat je 11 jaar bent Ik ben 11 jaar Ik ben 11 jaar",'Het nat zocht jou. Waar kan ik aan land?',0,0
+2021-11-21 15:03:28.763451 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:33.463365 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:38.863214 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:42.596500 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:46.063104 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:50.196271 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:54.662682 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:03:59.029533 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:04:04.763011 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:04:23.329870 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:04:48.129812 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:04:51.996992 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:04:57.330328 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:04.663658 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:08.663526 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:12.262800 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:16.829420 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:20.662900 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:28.930010 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:05:38.962828 | info |  | KEYWORD DETECTED
+2021-11-21 15:05:57.196482 | info |  | "Wat wil je me vertellen is de aarde rond of plat",'"Voelen is voordeel. 'Gnabben, gnabben, gnabben.' "',None,None
+2021-11-21 15:06:46.463209 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:06:49.896453 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:06:54.363688 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:06:59.330151 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:07:07.696475 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:07:12.663478 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:07:16.163642 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:07:21.630079 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:07:25.096703 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:09:58.063496 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:15:14.130092 | info |  | KEYWORD DETECTED
+2021-11-21 15:15:19.263557 | info |  | "Noordzee",'Mannen brengen woorden naar het strand. What's your name? Ik weet niet.',None,None
+2021-11-21 15:16:14.463326 | info |  | KEYWORD DETECTED
+2021-11-21 15:16:19.196488 | info |  | "Hoe",'"Dat is voor jou veel te zwaar, maar zee kan stromen en is gloed van water,. "',0,0
+2021-11-21 15:22:16.263442 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:31:34.429787 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:35:41.797080 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:39:05.963673 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:40:38.696411 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:40:51.263727 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:41:12.497090 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:41:17.496648 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:45:28.830299 | info |  | KEYWORD DETECTED
+2021-11-21 15:45:50.930190 | info |  | "Hallo Noordzee",'"Ben op zoek naar eilanden en verre hemel, waar golven kunnen aanspoelen."',None,None
+2021-11-21 15:55:44.663611 | info |  | KEYWORD NOT DETECTED
+2021-11-21 15:56:30.163483 | info |  | KEYWORD DETECTED
+2021-11-21 15:56:52.429856 | info |  | "wij wandelen veel langs je",'Je bent een heleboel en dwaalt zonder te weten waarom. Denk er maar niet aan.',0,0
+2021-11-21 15:57:46.862935 | info |  | KEYWORD DETECTED
+2021-11-21 15:58:08.929576 | info |  | "Je bent heel mooi Je bent heel mooi",'Natte zeearmen verlangen naar diepe rotsen en klippige vissen.',0,0
+2021-11-21 16:01:00.130581 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:02:55.163309 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:03:02.529544 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:04:36.796825 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:04:42.529597 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:04:46.763089 | info |  | KEYWORD DETECTED
+2021-11-21 16:05:08.163380 | info |  | "Voel jij je ook verlaten en zij Ik vind je zielig want je bent de plasticsoep geworden",'"Gnabben, gnabben, gnabben.' Je hoeft niet alles te weten, dat is gewoon fundamenteel."',1,1
+2021-11-21 16:07:16.830342 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:07:41.596746 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:07:47.929891 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:07:59.230408 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:08:46.896961 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:29:02.463848 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:29:06.929332 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:47:54.463213 | info |  | KEYWORD NOT DETECTED
+2021-11-21 16:51:05.396382 | info |  | KEYWORD DETECTED
+2021-11-21 16:51:27.529690 | info |  | "Hoe laat is het",'"Weet niet wie je bent, maar klinkt als mensen. Hoe plezieren? Met een handvol taal en blijde schuim!"',None,None

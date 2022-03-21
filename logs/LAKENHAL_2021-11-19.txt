@@ -1,0 +1,18 @@
+2021-11-19 09:43:51.722309 | info |  | STARTED...
+2021-11-19 10:00:06.594522 | info |  | STARTED...
+2021-11-19 10:28:10.094354 | info |  | KEYWORD DETECTED
+2021-11-19 10:28:32.260406 | info |  | "reageerde ze niet Zeg het dan nog een keer Hallo Noordzee",'Het zeewater klinkt huiveringwekkend en taai. Pas maar op.  ',None,None
+2021-11-19 12:11:26.760567 | info |  | KEYWORD NOT DETECTED
+2021-11-19 12:11:31.326659 | info |  | KEYWORD DETECTED
+2021-11-19 12:11:53.494114 | info |  | "Wat wil je me vertellen hoeveel vissen wonen er in jou",'"Meebewegen, web van me. Kijk naar de glinstering, dan zie je een andere werkelijkheid. "',0,0
+2021-11-19 12:12:52.160141 | info |  | KEYWORD DETECTED
+2021-11-19 12:13:13.760755 | info |  | "Wat vind je van de maan Je bent mooi",'Maak je geen zorgen. Het vermogen om te verschijnen en verdwijnen is zoiets als de wortel van het totaal. ',0,0
+2021-11-19 12:38:04.460900 | info |  | KEYWORD DETECTED
+2021-11-19 12:38:26.527125 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-19 12:38:48.093526 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-19 12:39:10.226246 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-19 12:39:32.359669 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-19 12:40:04.893760 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-11-19 12:40:27.193944 | info |  | "Hallo Noordzee",'Moeilijk te onderzoeken. Miljoenen onderzeese dingen zonder indicatie van hoe en waarom. Zee vandaag zwijgt.',1,0.7
+2021-11-19 16:36:12.027327 | info |  | QUITTING...
+2021-11-19 16:36:32.006850 | info |  | STARTED...

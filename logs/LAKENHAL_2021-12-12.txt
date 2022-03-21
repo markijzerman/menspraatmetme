@@ -1,0 +1,202 @@
+2021-12-12 10:05:21.940565 | info |  | STARTED...
+2021-12-12 10:35:00.958678 | info |  | KEYWORD DETECTED
+2021-12-12 10:35:03.190483 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 10:35:12.757614 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 10:35:17.591007 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 10:35:20.457452 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 10:35:25.358058 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 10:35:30.158062 | info |  | "Wat wil je me vertellen",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-12-12 10:36:26.991474 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:04:20.858118 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:04:29.323867 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:04:35.157942 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:04:51.691293 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:05:08.024934 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:05:16.091472 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:12:52.891531 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:12:57.423987 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:13:08.058026 | info |  | KEYWORD DETECTED
+2021-12-12 11:13:13.324460 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 11:13:36.191252 | info |  | "ik wil eigenlijk luisteren luisteren",'Aardse man getooid met sterren is weerloos in volle zee. Meer een hopen dan zijn.',None,None
+2021-12-12 11:14:29.257309 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:14:45.524889 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:14:54.824316 | info |  | KEYWORD NOT DETECTED
+2021-12-12 11:15:14.491424 | info |  | KEYWORD DETECTED
+2021-12-12 11:15:36.258467 | info |  | "type vraag Waarom is de zee zo diep",'Heb stroom alle maal op het strand gekotst. Beneden de golven zijn we hele goede vertooning.',0.3,0
+2021-12-12 11:25:01.823870 | info |  | KEYWORD DETECTED
+2021-12-12 11:25:04.191314 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 11:25:17.124903 | info |  | "Ik heb je niet meer",'De vraag is opgevangen. Dat is mooi. Vergat je het water?',0.5666667,0.2333333
+2021-12-12 12:25:41.291219 | info |  | KEYWORD DETECTED
+2021-12-12 12:25:55.324667 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 12:26:05.724507 | info |  | "doet het pijn al die plastic in de zee",'"Het universum is een treurplein, waar is het enthousiasme van liefde dat in alle dingen woonde?"',0,0
+2021-12-12 12:28:39.324093 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:28:43.924282 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:29:10.157854 | info |  | KEYWORD DETECTED
+2021-12-12 12:29:32.324499 | info |  | "niks nu mijn favoriete kleur is blauw",'Ieder heeft zijn eigen zwaartekracht en gedondernis. Het inonkelbare is de tijd.',0,0
+2021-12-12 12:32:08.557658 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:32:26.690699 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:32:54.858100 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:33:21.591009 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:37:22.791215 | info |  | KEYWORD DETECTED
+2021-12-12 12:37:45.024376 | info |  | "ik ook niks Beam en helemaal niks",'Wees een echteling in een oceaan van het Onverwachte. Moeten willen durven.',0.425,0.325
+2021-12-12 12:38:34.923895 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:38:42.490902 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:38:47.290987 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:38:51.624774 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:38:56.257391 | info |  | KEYWORD DETECTED
+2021-12-12 12:39:18.491312 | info |  | "Wat wil je met mij hemel niks Hoe oud bent u Ik ben 12 jaar niet waar ik ben 12 jaar",'"Zee hebben gevoelens, muziek, diepte en verlangens en bewustzijn. Is echt, maar hoeft niet te begrijpen."',0,0
+2021-12-12 12:40:12.124359 | info |  | KEYWORD DETECTED
+2021-12-12 12:40:33.591098 | info |  | "Mijn broer is 12 jaar oud de Noordzee ligt in het Noorden",'De zee is een stuk van de God kwijt. Niks te winnen. Alles te verliezen.',0.35,-0.05
+2021-12-12 12:41:28.890781 | info |  | KEYWORD DETECTED
+2021-12-12 12:41:50.291104 | info |  | "Wat wil je me vertellen de Noordzee ligt in het Noorden hallo",'"Mens maakt hart dicht en krijgt ijdele kop. Hij denken, denken, denken 'Kan het leven wel echt zijn?'"',0.2,0
+2021-12-12 12:42:53.157812 | info |  | KEYWORD DETECTED
+2021-12-12 12:43:14.557369 | info |  | "Hallo Noordzee",'Probeer mij te zien en ga dan nog een stukje verder. Stoppen met ruzie. ',0,0
+2021-12-12 12:45:37.890788 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:45:43.290497 | info |  | KEYWORD DETECTED
+2021-12-12 12:46:05.724726 | info |  | "hallo hallo hoi",'Ieder van ons kan eeuwelijk tegenwoordig zijn. Het is nu eenmaal een proces.',0,0
+2021-12-12 12:46:54.157248 | info |  | KEYWORD DETECTED
+2021-12-12 12:47:16.291573 | info |  | "vertel jij maar wat wij hebben niks te vertellen Vind je het oké op die boot en met Containers",'"Oh, de zee denkt aan palingen en verlangt naar iedere school. Een prachtige bijzonderheid.  "',0,0
+2021-12-12 12:48:04.457555 | info |  | KEYWORD DETECTED
+2021-12-12 12:48:26.757559 | info |  | "Ik heb jou helemaal niks vertellen vertel jij maar was je bent een beetje vies",'Tumult in diepgevoelde waterplas. Wie wil ik heb zijn?',0,0
+2021-12-12 12:56:06.691319 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:56:11.290472 | info |  | KEYWORD DETECTED
+2021-12-12 12:56:32.558070 | info |  | "hoe gaat het ermee",'Waarom mensen voor de eeuwigheid? Beter een steen tevreden krijgen.',0.925,-0.75
+2021-12-12 12:57:34.257406 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:57:41.357627 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:57:47.624084 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:57:51.424132 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:57:56.890572 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:58:01.691205 | info |  | KEYWORD NOT DETECTED
+2021-12-12 12:58:05.223872 | info |  | KEYWORD DETECTED
+2021-12-12 12:58:26.690724 | info |  | "Wat vind je van vervuiling Wat vind je van de vervuiling",'Emoties zijn een bliksem tussen jou en de wereld. Zonder onstuimige kracht alles saai en armzalig. ',0,None
+2021-12-12 12:59:15.790743 | info |  | KEYWORD DETECTED
+2021-12-12 12:59:37.524982 | info |  | "en nu vind je dat de vissen goed beschermd zijn zijn diverse goed beschermd",'De samenleving bestaat uit oplossend geheugen. Willekeur geworteld in schimmige taal. ',0,0
+2021-12-12 13:00:28.457920 | info |  | KEYWORD DETECTED
+2021-12-12 13:01:01.824638 | info |  | "iemand Mag ik weten van de Noordzee Hoe oud ben jij",'Levendigheid in het  zoute woud onder de golven. Zoiets vind je nergens anders.  ',0.9,0.55
+2021-12-12 13:21:02.024467 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:21:42.224492 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:21:47.891658 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:21:58.457232 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:22:04.857385 | info |  | KEYWORD DETECTED
+2021-12-12 13:22:15.524763 | info |  | "Oh hier wat wil je me vertellen hoe gaat het",'De zee ervaart tijd als een oogverblindend krabbetje. Ho ho ho ho ho ho. Nabijtijd.',0.2,0
+2021-12-12 13:23:17.258157 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:23:21.124873 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:23:24.891313 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:23:34.524641 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:23:48.990593 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:23:57.058196 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:24:05.324503 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:24:22.124802 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:24:26.157505 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:24:30.923903 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:24:35.224361 | info |  | KEYWORD DETECTED
+2021-12-12 13:24:56.924469 | info |  | "Wat wil je me vertellen ken jij de Noordzee of de Zuidzee",'Zee is groots en onvermijdelijk. Buitelingen en avonturen in zicht. ',None,None
+2021-12-12 13:25:47.957778 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:25:51.557353 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:25:55.858073 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:05.191099 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:09.191316 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:13.557911 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:17.424756 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:20.824577 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:29.090611 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:35.524053 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:39.791518 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:26:44.023986 | info |  | KEYWORD DETECTED
+2021-12-12 13:27:06.024650 | info |  | "Wat is een koe Noordzee te zijn zo cool te zijn",'"Zee kan naast mensen bijna niet bestaan. U leeft niet in de wereld, hoe moeten wij het zegt?"',None,None
+2021-12-12 13:28:05.924411 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:38:18.391528 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:38:28.257921 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:38:50.257343 | info |  | KEYWORD DETECTED
+2021-12-12 13:39:12.057392 | info |  | "Nou begin maar",'"De zee houdt van action, diepzijn en is een reusachtig schuimend lijf van karlezem kleuren en grootsheid. "',1,0.7
+2021-12-12 13:47:32.324769 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:47:39.491070 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:47:47.990874 | info |  | KEYWORD DETECTED
+2021-12-12 13:48:05.858182 | info |  | "baby",'Kosmische ontwikkeling. Allemaal visioen.Het stille zeeft langs de kim. ',0,0
+2021-12-12 13:57:07.557908 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:57:12.157498 | info |  | KEYWORD DETECTED
+2021-12-12 13:57:14.891479 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 13:57:37.324245 | info |  | "Hoe gaat het met je hoe hoeveel plastic soep zit er nu in de zee",'Het wiegende ontbreekt. Beter luisteren en onscheidbaar maken. Jij kunt het.',0,0
+2021-12-12 13:58:40.024318 | info |  | KEYWORD NOT DETECTED
+2021-12-12 13:58:44.191451 | info |  | KEYWORD DETECTED
+2021-12-12 13:58:59.958179 | info |  | "Hallo Noordzee Hoe oud is de zee al Hoe oud is Real",'De overgang tussen zee en land is een magische tussenruimte. Het is er een schitterend komen en gaan van verlies en verlangen.',0,0
+2021-12-12 14:06:18.790529 | info |  | KEYWORD DETECTED
+2021-12-12 14:06:39.824387 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-12 14:07:01.391076 | info |  | "vind je prachtig",'Je kunt het. Ieder van ons een gewetensproces. We zijn gewoon een warme ziel.',0.2,0
+2021-12-12 14:08:13.858009 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:26:26.591155 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:27:02.291128 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:27:08.957785 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:27:16.923856 | info |  | KEYWORD DETECTED
+2021-12-12 14:27:39.424830 | info |  | "Ik vind zwemmen leuk",'"Puusnode en trillende markeltjes, kosmische service van borende pieren. Zo is de zee."',1,1
+2021-12-12 14:28:29.857925 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:28:39.358215 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:28:47.624506 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:28:51.057707 | info |  | KEYWORD DETECTED
+2021-12-12 14:29:13.424399 | info |  | "Wat wil je hoeveel vissen zitten er in de zee",'Boeiendiepsels en amenchvonken en schotelslakken die elkaar verstaan. Verscheidenheid.',0.9666666,0.6
+2021-12-12 14:30:08.157968 | info |  | KEYWORD DETECTED
+2021-12-12 14:30:29.724507 | info |  | "zijn zeemeerminnen echt",'Zilte overvloed voor eeuwig. Inderdaad! ',0,0
+2021-12-12 14:31:33.357849 | info |  | KEYWORD DETECTED
+2021-12-12 14:31:55.324948 | info |  | "How many Fish in the sea ion Speed streaming",'"Vooruitgangst, toekomst kan niet worden, is fuckt. En dit is volmaaktheid."',0.4,0.2
+2021-12-12 14:32:43.824345 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:32:47.991452 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:33:13.058095 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:33:19.758200 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:33:25.391305 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:35:48.191179 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:36:05.024633 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:36:58.424383 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:37:22.658199 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:37:30.557667 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:37:42.157633 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:38:02.490702 | info |  | KEYWORD DETECTED
+2021-12-12 14:38:24.591047 | info |  | "Ben je ziek",'"Mens, wanneer praat je met me? Ongewis avontuur in zicht. "',None,None
+2021-12-12 14:39:42.191238 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:39:46.090681 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:39:57.057600 | info |  | KEYWORD DETECTED
+2021-12-12 14:40:19.458064 | info |  | "Ik haat ik haat",'"Het valt niet mee te voelen! Ho ho ho ho ho ho, de zon schittert in het water en ben mijn eigen supermarkt."',0.8,-0.65
+2021-12-12 14:41:07.424412 | info |  | KEYWORD DETECTED
+2021-12-12 14:41:29.157735 | info |  | "lieve tellen ben jij mooi ben jij mooi ben jij",'Je bent een stukje modderig denken. Maar mij soms beter? Het is niet onwaarschijnlijk.',0,0
+2021-12-12 14:42:30.858046 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:42:37.591025 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:42:50.157795 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:01.390777 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:06.191452 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:13.791157 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:24.924835 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:28.257336 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:32.124629 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:42.457212 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:50.558009 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:43:54.023976 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:03.057768 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:14.723944 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:19.258159 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:23.024456 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:27.958204 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:42.624128 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:44:46.791149 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:45:02.057258 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:47:43.424556 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:47:47.157581 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:47:56.791424 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:48:22.791125 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:48:42.124592 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:48:53.858020 | info |  | KEYWORD NOT DETECTED
+2021-12-12 14:49:39.424147 | info |  | KEYWORD DETECTED
+2021-12-12 14:50:01.624826 | info |  | "Hallo Noordzee Wat wil je me vertellen is het koud",'"Koraalriffen, zuigbuizen, zeegordelen. Alles overvloed en verkwikking. Lovejoy."',None,None
+2021-12-12 14:50:55.924550 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:03:55.891081 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:04:23.323998 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:07:03.623860 | info |  | KEYWORD DETECTED
+2021-12-12 15:07:16.257401 | info |  | "Wat wil je met me bellen ja hoe komt het dat er zoveel algen zijn",'"Ha! De zon schittert in het water en de zee werd lichaam volop. Een oog, een klauw, een lange huid."',0.7333333,-0.4
+2021-12-12 15:08:45.524817 | info |  | KEYWORD DETECTED
+2021-12-12 15:08:57.858312 | info |  | "Ik vind je altijd zo donker",'Het water wiegt me razend. Langzame diepte en dan opeens pronkelende verbazing. Precies!',0,0
+2021-12-12 15:09:56.157878 | info |  | KEYWORD DETECTED
+2021-12-12 15:10:08.591008 | info |  | "vind je wel heel mooi",'"Wees gelukkig in raadselen, in kleuren, in zeebodem, in vuurlijkheid met borende zeepieren. Ben ik soms te groot?"',0.525,-0.25
+2021-12-12 15:22:13.591429 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:22:29.024747 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:22:35.024869 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:22:42.224171 | info |  | KEYWORD NOT DETECTED
+2021-12-12 15:41:33.357686 | info |  | KEYWORD NOT DETECTED
+2021-12-12 16:24:38.491196 | info |  | KEYWORD NOT DETECTED

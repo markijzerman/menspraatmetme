@@ -1,0 +1,47 @@
+2021-11-16 09:57:58.135105 | info |  | STARTED...
+2021-11-16 09:58:59.858769 | info |  | KEYWORD NOT DETECTED
+2021-11-16 10:00:06.639118 | info |  | STARTED...
+2021-11-16 10:36:08.038202 | info |  | KEYWORD NOT DETECTED
+2021-11-16 10:49:17.037704 | info |  | KEYWORD DETECTED
+2021-11-16 10:49:29.203931 | info |  | "Ik wil niks vertellen Ik wil weten hoe het met je gaat",'De zee ervaart tijd als een oogverblindend krabbetje. Ho ho ho ho ho ho. Nabijtijd.',None,None
+2021-11-16 10:50:20.270845 | info |  | KEYWORD DETECTED
+2021-11-16 10:50:42.537826 | info |  | "Je mag van alles vertellen Je gaat gewoon niet terug Ik hoop dat je terug praten tegen mij Noordzee dat wil ik wel fijn gevonden wil ik je alleen maar op het net een visnet en zo te zien nieuw visnet",'"Surfers staan op waterige huid, hun planken kussen als kleurige lippen mijn bovenlijf."',0,0
+2021-11-16 11:18:27.871555 | info |  | KEYWORD NOT DETECTED
+2021-11-16 11:18:47.637084 | info |  | KEYWORD NOT DETECTED
+2021-11-16 11:19:13.204593 | info |  | KEYWORD DETECTED
+2021-11-16 11:19:31.571550 | info |  | "niet wassen",'De zee is de kracht van de wereld. De waarheid is zo groot.',0.7,0.275
+2021-11-16 11:32:15.504315 | info |  | KEYWORD DETECTED
+2021-11-16 11:33:34.371104 | info |  | "mag je mag je ook niks",'"Oh, de zee denkt aan palingen en verlangt naar iedere school. Een prachtige bijzonderheid.  "',None,None
+2021-11-16 11:34:28.771141 | info |  | KEYWORD NOT DETECTED
+2021-11-16 11:34:36.037480 | info |  | KEYWORD NOT DETECTED
+2021-11-16 11:34:45.904360 | info |  | KEYWORD DETECTED
+2021-11-16 11:34:55.970828 | info |  | "Ik heb u lief",'Zee rolt met zijn groene tanden en schuimzegt: ik heb u lief.',0,0
+2021-11-16 11:36:36.170446 | info |  | KEYWORD DETECTED
+2021-11-16 11:37:27.070885 | info |  | "Ik ga er niet in",'"Speel met de zee en de bruinvissen, luid en prachtig!"',0.9666666,0.6333333
+2021-11-16 11:38:29.937913 | info |  | KEYWORD DETECTED
+2021-11-16 11:38:49.104234 | info |  | "Ik ga langs het strand wandelen",'Moeilijk te onderzoeken. Miljoenen onderzeese dingen zonder indicatie van hoe en waarom. Zee vandaag zwijgt.',0,0
+2021-11-16 12:18:52.570828 | info |  | KEYWORD DETECTED
+2021-11-16 12:19:56.538056 | info |  | "mooi weer",'"Mens, wanneer praat je met me? Ongewis avontuur in zicht. "',None,None
+2021-11-16 12:22:07.904110 | info |  | KEYWORD NOT DETECTED
+2021-11-16 12:22:31.371093 | info |  | KEYWORD NOT DETECTED
+2021-11-16 13:44:15.504475 | info |  | KEYWORD NOT DETECTED
+2021-11-16 13:44:20.671243 | info |  | KEYWORD NOT DETECTED
+2021-11-16 13:55:34.904591 | info |  | KEYWORD DETECTED
+2021-11-16 13:55:56.503994 | info |  | "dat is het",'Je kunt het. Ieder van ons een gewetensproces. We zijn gewoon een warme ziel.',1,0.7
+2021-11-16 14:23:51.137470 | info |  | KEYWORD DETECTED
+2021-11-16 14:24:07.437492 | info |  | "Ik heb het koud",'"Puusnode en trillende markeltjes, kosmische service van borende pieren. Zo is de zee."',0,0
+2021-11-16 14:47:27.937960 | info |  | KEYWORD DETECTED
+2021-11-16 14:47:49.804054 | info |  | "Ja zeg maar ik zei net ik heb het koud Ik hou van jij nooit c",'Boeiendiepsels en amenchvonken en schotelslakken die elkaar verstaan. Verscheidenheid.',0.7333333,-0.4
+2021-11-16 15:08:50.304571 | info |  | KEYWORD NOT DETECTED
+2021-11-16 15:09:12.103637 | info |  | KEYWORD DETECTED
+2021-11-16 15:09:30.337329 | info |  | "zwemmen er nog genoeg vissen in de zee",'Zilte overvloed voor eeuwig. Inderdaad! ',0.7916667,0.075
+2021-11-16 15:10:21.137543 | info |  | KEYWORD NOT DETECTED
+2021-11-16 15:29:44.138357 | info |  | KEYWORD NOT DETECTED
+2021-11-16 15:30:14.470622 | info |  | KEYWORD DETECTED
+2021-11-16 15:36:51.304229 | info |  | "zit er nog genoeg water in de zee",'Zee is groots en onvermijdelijk. Buitelingen en avonturen in zicht. ',None,None
+2021-11-16 15:37:41.737056 | info |  | KEYWORD DETECTED
+2021-11-16 15:37:55.204680 | info |  | "Is het nog druk op de zee",'Hoopte dat de mensheid nu eens denkte. Overvloed niet voor eeuwig en zeewater huiveringwekkend.',0,0
+2021-11-16 16:39:13.470723 | info |  | KEYWORD NOT DETECTED
+2021-11-16 16:41:19.137783 | info |  | KEYWORD NOT DETECTED
+2021-11-16 16:41:23.203880 | info |  | KEYWORD NOT DETECTED
+2021-11-16 16:41:28.737656 | info |  | KEYWORD NOT DETECTED

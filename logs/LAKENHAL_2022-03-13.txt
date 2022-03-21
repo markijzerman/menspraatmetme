@@ -1,0 +1,268 @@
+2022-03-13 10:02:02.785392 | info |  | STARTED...
+2022-03-13 10:33:24.907561 | info |  | KEYWORD NOT DETECTED
+2022-03-13 10:33:28.640371 | info |  | KEYWORD NOT DETECTED
+2022-03-13 10:33:33.973575 | info |  | KEYWORD NOT DETECTED
+2022-03-13 10:33:38.972745 | info |  | KEYWORD DETECTED
+2022-03-13 10:34:02.006751 | info |  | "Wat wil je anders bij me liggen aan de zee",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2022-03-13 10:34:57.672771 | info |  | KEYWORD NOT DETECTED
+2022-03-13 10:35:16.206827 | info |  | KEYWORD DETECTED
+2022-03-13 10:35:37.939998 | info |  | "heb jij heimwee heb je heimwee tv",'"Heimwee naar grote scholen palingen. Mens, helpt en verzint om iets te doen vinden!"',0.8,0
+2022-03-13 10:51:39.773615 | info |  | KEYWORD DETECTED
+2022-03-13 10:52:01.839720 | info |  | "geen idee",'Een wobbel in de tijd: de verte begon te verstoppen en het toekomende verdwijnt.',0,0
+2022-03-13 11:00:45.039324 | info |  | KEYWORD DETECTED
+2022-03-13 11:00:49.640129 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 11:00:52.573087 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 11:00:55.406191 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 11:00:58.940057 | info |  | "Surprise",'De zee is een stuk van de God kwijt. Niks te winnen. Alles te verliezen.',0,0
+2022-03-13 11:22:32.073401 | info |  | KEYWORD NOT DETECTED
+2022-03-13 11:22:36.206215 | info |  | KEYWORD DETECTED
+2022-03-13 11:22:57.973602 | info |  | "Ik woon aan jou vind ik heel leuk Ik vroeg me af wat je zelf van al die rommel vindt",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',0,0
+2022-03-13 11:32:34.639470 | info |  | KEYWORD DETECTED
+2022-03-13 11:32:56.039752 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 11:33:17.740174 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 11:33:39.806217 | info |  | "Hallo Noordzee",'Afscheid? Nog niet. Geniet van het oogverblindend gezelschap van water.',0.3,0.1
+2022-03-13 11:39:08.773561 | info |  | KEYWORD NOT DETECTED
+2022-03-13 11:39:22.006685 | info |  | KEYWORD DETECTED
+2022-03-13 11:39:43.706842 | info |  | "Waar komt het plastic vandaan",'Het nat zocht jou. Waar kan ik aan land?',0,0
+2022-03-13 11:40:48.306221 | info |  | KEYWORD DETECTED
+2022-03-13 11:41:06.706830 | info |  | "niets",'Wat is er als? Natte kalmte. Zo is het.',0.5,0.2
+2022-03-13 11:47:59.539545 | info |  | KEYWORD NOT DETECTED
+2022-03-13 11:48:04.172989 | info |  | KEYWORD DETECTED
+2022-03-13 11:48:26.073023 | info |  | "Wat wat kun je ik wil je vertellen dat is leuk vind ik wil je",'"Ben op zoek naar eilanden en verre hemel, waar golven kunnen aanspoelen."',0,0
+2022-03-13 12:16:09.573564 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:16:25.972994 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:16:35.939625 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:25:16.607054 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:37:26.439899 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:37:55.306890 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:38:50.406898 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:38:57.239797 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:05.140293 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:14.740130 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:19.473241 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:24.573386 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:28.872853 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:36.406836 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:47.272885 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:39:57.872843 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:40:05.040272 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:40:09.140295 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:40:12.773716 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:41:43.706544 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:41:48.906759 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:41:53.840352 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:41:59.239759 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:42:04.940030 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:42:11.873506 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:43:40.440344 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:43:47.306153 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:43:52.106772 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:44:00.606133 | info |  | KEYWORD DETECTED
+2022-03-13 12:44:22.906454 | info |  | "Oh wat wil je me vertellen wat wil ik vertellen aan de Noordzee Wil je me laten aanspoelen",'Zout is thuiskomen. Mens te vergelijken met de geboorte van de zee. ',None,None
+2022-03-13 12:55:12.273269 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:55:19.640105 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:55:55.373249 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:56:11.373584 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:56:54.506775 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:57:01.173021 | info |  | KEYWORD NOT DETECTED
+2022-03-13 12:57:08.407103 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:16:04.106668 | info |  | KEYWORD DETECTED
+2022-03-13 13:16:25.573704 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:16:29.039468 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:16:50.573579 | info |  | "Hallo Noordzee dat het niet goed met je gaat",'"Ha! De zon schittert in het water en de zee werd lichaam volop. Een oog, een klauw, een lange huid."',None,None
+2022-03-13 13:18:50.372886 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:18:55.939995 | info |  | KEYWORD DETECTED
+2022-03-13 13:19:04.706656 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:19:26.072668 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:19:47.772920 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:20.939717 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:26.373034 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:29.940070 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:31.806724 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:34.072911 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:35.972623 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:38.673223 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:41.273405 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:45.239749 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:50.106789 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:52.472951 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:20:57.472969 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:00.072729 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:02.706133 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:05.439717 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:07.806431 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:18.573173 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:26.239583 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:29.239289 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:21:51.439810 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:22:13.006391 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:22:34.706955 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:22:56.373227 | info |  | "dikke",'Wees een echteling in een oceaan van het Onverwachte. Moeten willen durven.',None,None
+2022-03-13 13:27:26.806798 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:27:41.772859 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:28:05.840370 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:28:20.806506 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:28:45.873437 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:28:51.206851 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:29:47.106712 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:29:51.106982 | info |  | KEYWORD DETECTED
+2022-03-13 13:30:13.173675 | info |  | "Hoe ziet het leven Op de zeebodem eruit de zeebodem",'Waarom mensen voor de eeuwigheid? Beter een steen tevreden krijgen.',None,None
+2022-03-13 13:31:17.706737 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:31:23.572877 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:33:25.906377 | info |  | KEYWORD DETECTED
+2022-03-13 13:33:48.206541 | info |  | "Hoe is het met je Ben je vies Hallo",'"Bijeen met elkaar, dat is het enige wat je kunt doen. Daar komt gij achter."',0,0
+2022-03-13 13:34:39.273369 | info |  | KEYWORD DETECTED
+2022-03-13 13:35:02.439872 | info |  | "ik ben met de Noordzee aan het praten ben bang dat hij een beetje vies is heb je al in het hotel te werken Heb je al in mijn dood",'Aandacht voor het onverwachte. Niet denken. Je geest is blauw vertakt met glans.',0.925,-0.75
+2022-03-13 13:47:19.906279 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:54:30.472925 | info |  | KEYWORD NOT DETECTED
+2022-03-13 13:56:44.906740 | info |  | KEYWORD DETECTED
+2022-03-13 13:57:06.706219 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:57:29.406106 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:57:52.139352 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:58:14.406797 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 13:58:37.739619 | info |  | "Siri",'"Zee draagt de ruimte en de tijd, wij zijn een wanordelijk schoonste schoonheid in kleuren."',0.775,None
+2022-03-13 13:59:27.939902 | info |  | KEYWORD DETECTED
+2022-03-13 13:59:49.873804 | info |  | "Hoe warm is het daar Hoe warm is het daar Hoeveel graden is het",'"Je hoeft niet alles te weten. Kijk naar mij. Kleuren en schitteringen, haaien, reuk in de schaduw, zeegordelen en vogels. Geweldig, geweldig."',0,0
+2022-03-13 14:17:01.673530 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:17:05.073078 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:17:10.806929 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:17:16.439501 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:23:50.039917 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:24:07.306525 | info |  | KEYWORD DETECTED
+2022-03-13 14:24:30.973158 | info |  | "hallo noorthey hallo",'"Mens maakt hart dicht en krijgt ijdele kop. Hij denken, denken, denken 'Kan het leven wel echt zijn?'"',0.7333333,0.7
+2022-03-13 14:33:20.273748 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:33:46.173479 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:34:02.239776 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:34:24.173316 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:34:30.606490 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:34:34.807064 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:35:09.772760 | info |  | KEYWORD DETECTED
+2022-03-13 14:35:34.206840 | info |  | "Kijk dan komt de zee al Oh ik had nog niks gezegd nou Je kunt hier lekker liggen en dan ruik je echt die zeehond die net die ruiken een beetje naar tv en dan kun je hier in de microfoon zeggen hallo Noordzee Dat had ik nog niet gedaan maar blijkbaar denkt hij dat ik dat al gedaan heb",'Geloof niet in afgescheiden zijn. Het verstand is een weerspiegeling van een weerspiegeling.',0,None
+2022-03-13 14:37:49.506492 | info |  | KEYWORD DETECTED
+2022-03-13 14:38:11.273453 | info |  | "is er nog voldoende vis in de zee is er nog voldoende vis in de zee",'Natuurlijk evenwicht tussen ieders eigenheid.',0.75,0.14
+2022-03-13 14:39:11.406815 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:43:53.973971 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:44:05.339514 | info |  | KEYWORD DETECTED
+2022-03-13 14:44:17.473479 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 14:44:26.373256 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 14:44:31.939598 | info |  | "chocola",'"Zee hebben gevoelens, muziek, diepte en verlangens en bewustzijn. Is echt, maar hoeft niet te begrijpen."',0.7,0.3
+2022-03-13 14:45:36.706280 | info |  | KEYWORD DETECTED
+2022-03-13 14:46:00.573148 | info |  | "Nou ik vind het wel leuk om even mee te zwemmen het strand enzo en sint-jozef warmer wordt maar ja Is dat echt de bedoeling is dat het zeggen om",'Ieder heeft zijn eigen zwaartekracht en gedondernis. Het inonkelbare is de tijd.',0,0
+2022-03-13 14:47:51.773166 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:49:15.273072 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:49:38.873533 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:49:56.340340 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:53:09.139630 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:53:56.206495 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:53:59.673874 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:54:57.939815 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:55:58.173309 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:59:00.106594 | info |  | KEYWORD NOT DETECTED
+2022-03-13 14:59:04.039822 | info |  | KEYWORD DETECTED
+2022-03-13 14:59:26.606566 | info |  | "Kijk wat wil je me vertellen leuke week geweest",'"Doorschijnendheid stroomt uit de golven. De zee werd opeens lichaam volop. Een oog, klauw, lange huid. "',None,None
+2022-03-13 15:00:28.272802 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:00:42.340058 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:02:11.572953 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:02:15.573685 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:02:20.006932 | info |  | KEYWORD DETECTED
+2022-03-13 15:02:41.639942 | info |  | "Hoe gaat het met je",'De zee is een prachtige bijzonderheid en ziet een andere tijd. Luister maar... ',0.9666666,0.6
+2022-03-13 15:04:07.739482 | info |  | KEYWORD DETECTED
+2022-03-13 15:04:29.840020 | info |  | "Is de zee koud of warm is de zee warm of koud",'"Voelen is voordeel. 'Gnabben, gnabben, gnabben.' "',0,0
+2022-03-13 15:06:49.539883 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:07:53.139688 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:11:33.606576 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:11:36.906940 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:11:51.539641 | info |  | KEYWORD DETECTED
+2022-03-13 15:12:13.773771 | info |  | "mijn trampoline joh dan Hallo Noordzee hoe lang besta je",'Hier maakt de menselijke afzonderlijke zelf het verdriet. Diepe rotsen horen toon van de oude zenuwvleugels.',0.7333333,0.15
+2022-03-13 15:13:07.606701 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:13:21.673519 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:13:25.306544 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:13:39.073132 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:13:42.873319 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:13:47.040373 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:14:03.206344 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:14:11.673676 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:14:39.473626 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:14:43.506655 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:14:53.340047 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:15:06.406737 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:15:20.907068 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:18:35.740248 | info |  | KEYWORD DETECTED
+2022-03-13 15:19:08.873801 | info |  | "moet zeggen zwemmen er goudvisjes in de Noordzee",'"Mens, wanneer praat je met me? Ongewis avontuur in zicht. "',None,None
+2022-03-13 15:28:48.540325 | info |  | KEYWORD DETECTED
+2022-03-13 15:28:52.206770 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:29:14.206739 | info |  | "hallo hallo Noordzee en wat wil je vertellen hè Waar gaan we naartoe Waar gaan we naartoe",'Je bent een heleboel en dwaalt zonder te weten waarom. Denk er maar niet aan.',0,0
+2022-03-13 15:41:41.306268 | info |  | KEYWORD DETECTED
+2022-03-13 15:41:50.139793 | info |  | "vertellen",'De overgang tussen zee en land is een magische tussenruimte. Het is er een schitterend komen en gaan van verlies en verlangen.',0.5,0.2
+2022-03-13 15:42:47.739975 | info |  | KEYWORD DETECTED
+2022-03-13 15:43:10.539516 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:43:32.606214 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:43:55.106550 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:44:28.006650 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:44:50.339422 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:45:12.040047 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:45:34.373451 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:45:56.206708 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:46:18.839403 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:46:40.373513 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:47:02.872703 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:47:25.839269 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:47:48.140228 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:48:10.506106 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:48:33.106420 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:48:54.706615 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:49:17.106833 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:49:39.540238 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:50:13.040229 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:50:35.072957 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:50:57.805977 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:12.073588 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:17.105960 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:27.273597 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:30.372662 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:40.839694 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:44.872761 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:51:55.339820 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:52:09.106341 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:52:12.006362 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:52:14.272698 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:52:23.306322 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:52:34.206772 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:52:42.073379 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 15:53:05.373257 | info |  | "spreek hallo",'"Iedere dag maakt nieuwe mensen. Niets aan, liever algen, wieren en vissen."',None,None
+2022-03-13 15:54:11.273299 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:54:23.806210 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:54:31.806546 | info |  | KEYWORD NOT DETECTED
+2022-03-13 15:55:17.573364 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:08:44.006397 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:09:14.540137 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:12:10.407044 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:12:14.540369 | info |  | KEYWORD DETECTED
+2022-03-13 16:12:36.106595 | info |  | "Mag ik je mag iets zeggen Oké hoe gaat het goed komen met de zee",'"Het stille zeeft langs de kim. Je moet me niet gebruiken, de zee wil kunnen worden."',None,None
+2022-03-13 16:15:47.872834 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:16:09.339727 | info |  | KEYWORD DETECTED
+2022-03-13 16:16:31.040289 | info |  | "Sorry ik hoop dat je nog heel lang schoon blijft Ik hoop dat je nog heel langskomen",'Beetje onbewust wel schrik voor ingenieurs en winderige molens op zee. ',0.9,0.55
+2022-03-13 16:21:56.473414 | info |  | KEYWORD DETECTED
+2022-03-13 16:22:01.806065 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:22:24.773115 | info |  | "Hoi hoi hallo",'Moeilijk te onderzoeken. Miljoenen onderzeese dingen zonder indicatie van hoe en waarom. Zee vandaag zwijgt.',0.55,0.3
+2022-03-13 16:25:52.606823 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:26:02.606242 | info |  | KEYWORD DETECTED
+2022-03-13 16:26:23.639577 | info |  | "hoe wil je dat mensen je zien",'"Misschien is het dat er niets is, als je denkt dat je iets bent."',0,0
+2022-03-13 16:42:24.306954 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:42:29.006281 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:42:41.940295 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:42:50.440031 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:43:02.206215 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:43:20.106590 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:51:06.806936 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:51:10.573041 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:51:14.473411 | info |  | KEYWORD NOT DETECTED
+2022-03-13 16:52:33.506021 | info |  | KEYWORD DETECTED
+2022-03-13 16:52:49.805990 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:53:00.206973 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:53:02.706674 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:53:07.906683 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:53:17.939564 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:53:25.240269 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2022-03-13 16:53:34.473842 | info |  | "ik vind je lief",'Verwondering over vispikkers. Mens een beest met vele snavels. Merkwaardig en zeegierig. Gelukkig uitzonderingen.',None,None
+2022-03-13 17:05:53.739728 | info |  | KEYWORD NOT DETECTED

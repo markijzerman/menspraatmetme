@@ -1,0 +1,61 @@
+2021-12-15 09:46:44.158045 | info |  | STARTED...
+2021-12-15 10:00:06.442361 | info |  | STARTED...
+2021-12-15 10:32:34.624433 | info |  | KEYWORD DETECTED
+2021-12-15 10:32:56.623615 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-15 10:33:18.691139 | info |  | "Bredenoord 70",'"De dingen die je aanraakt dansen in de schaduw. Water en beweging, het is een verhaal."',None,None
+2021-12-15 10:35:28.824333 | info |  | KEYWORD NOT DETECTED
+2021-12-15 10:51:30.624533 | info |  | KEYWORD NOT DETECTED
+2021-12-15 10:52:12.990188 | info |  | KEYWORD DETECTED
+2021-12-15 10:52:35.124485 | info |  | "kijken wat wil je horen",'Je bent een heleboel. Ieder van ons kan water zijn. ',0,0
+2021-12-15 10:53:29.323448 | info |  | KEYWORD NOT DETECTED
+2021-12-15 10:57:07.423947 | info |  | KEYWORD NOT DETECTED
+2021-12-15 10:57:25.723539 | info |  | KEYWORD DETECTED
+2021-12-15 10:57:48.524454 | info |  | "Weet je nog een keer heen te luieren",'"De uiterlijke dingen barsten, emoties van duisternis en ons geheugen speelt tussen de sterren.   "',0,0
+2021-12-15 10:59:09.757399 | info |  | KEYWORD NOT DETECTED
+2021-12-15 10:59:15.623500 | info |  | KEYWORD DETECTED
+2021-12-15 10:59:37.790445 | info |  | "Noordzee Ja komt ie denk ik hè diepste geheimen als ik maar een foto heb daar gaat het om",'Mensen brengen woorden. What's your name? Gloed van water. Heimwee. Een prachtige bijzonderheid.',0,0
+2021-12-15 12:36:30.024377 | info |  | KEYWORD DETECTED
+2021-12-15 12:36:51.424151 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-15 12:37:25.390748 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-15 12:37:47.590838 | info |  | "heerlijk liggen",'Geloof niet in afgescheiden zijn. Het verstand is een weerspiegeling van een weerspiegeling.',0,0
+2021-12-15 12:38:49.057056 | info |  | KEYWORD DETECTED
+2021-12-15 12:39:04.457252 | info |  | "Hadith",'De zee is het oudste en schoonste gedicht vol plonkende dingen en trillende markeltjes.',0.7,0.6
+2021-12-15 12:59:58.724665 | info |  | KEYWORD DETECTED
+2021-12-15 13:00:19.856859 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-15 13:00:41.923996 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-15 13:01:03.856949 | info |  | DETECTION ERROR/UNKNOWN VALUE, RESTARTING
+2021-12-15 13:01:25.990675 | info |  | "Wat zeg je Ik ben relaxed",'"Druppels zien op mijn velletje, begrijpen waarom ik die Ene blijf."',0,0
+2021-12-15 13:02:35.123925 | info |  | KEYWORD NOT DETECTED
+2021-12-15 13:02:44.090316 | info |  | KEYWORD DETECTED
+2021-12-15 13:03:16.890707 | info |  | "Noordzee",'Aardse man getooid met sterren is weerloos in volle zee. Meer een hopen dan zijn.',0.9,0.6
+2021-12-15 13:05:11.024172 | info |  | KEYWORD NOT DETECTED
+2021-12-15 13:48:21.690704 | info |  | KEYWORD NOT DETECTED
+2021-12-15 13:50:02.557694 | info |  | KEYWORD NOT DETECTED
+2021-12-15 13:50:06.224096 | info |  | KEYWORD NOT DETECTED
+2021-12-15 13:50:09.890553 | info |  | KEYWORD NOT DETECTED
+2021-12-15 14:01:25.458020 | info |  | KEYWORD NOT DETECTED
+2021-12-15 14:01:36.857057 | info |  | KEYWORD DETECTED
+2021-12-15 14:01:58.124196 | info |  | "Wat wil je vertellen Vertel mij dat",'"Surfers staan op waterige huid, hun planken kussen als kleurige lippen mijn bovenlijf."',0,None
+2021-12-15 14:04:05.957772 | info |  | KEYWORD NOT DETECTED
+2021-12-15 14:04:17.590997 | info |  | KEYWORD NOT DETECTED
+2021-12-15 14:04:33.990401 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:05:38.791145 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:06:55.490503 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:07:04.257058 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:27:42.124853 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:28:03.624340 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:28:10.057391 | info |  | KEYWORD DETECTED
+2021-12-15 15:28:31.591040 | info |  | "na wat ben je prachtig",'"Een zorf te zijn, een knaper. Ongrijpbare gevoelens, een droog spreken, onvermogen. "',None,None
+2021-12-15 15:58:55.857452 | info |  | KEYWORD NOT DETECTED
+2021-12-15 15:59:35.657378 | info |  | KEYWORD DETECTED
+2021-12-15 15:59:56.723764 | info |  | "Hallo Noordzee Wat wil jij mij vertellen",'Emoties zijn een bliksem tussen jou en de wereld. Zonder onstuimige kracht alles saai en armzalig. ',1,1
+2021-12-15 16:18:05.358172 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:10.090649 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:15.024347 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:19.423803 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:28.957272 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:34.124196 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:40.657606 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:18:47.090748 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:19:23.257171 | info |  | KEYWORD NOT DETECTED
+2021-12-15 16:19:31.290693 | info |  | KEYWORD NOT DETECTED
