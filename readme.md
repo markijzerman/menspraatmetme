@@ -16,36 +16,36 @@ https://www.addictivetips.com/windows-tips/terminate-close-an-app-on-schedule-on
 
 ### BAT FILE STARTUP
 
-@ ECHO OFF
-: This batch file starts up the Python and Touchdesigner
-: script for the Lakenhal installation
-: Mark IJzerman, 2021
+	@ ECHO OFF
+	: This batch file starts up the Python and Touchdesigner
+	: script for the Lakenhal installation
+	: Mark IJzerman, 2021
 
-TITLE LAKENHAL STARTUP
+	TITLE LAKENHAL STARTUP
 
-ECHO FIRST MAKE SURE THEYRE NOT RUNNING
-TASKKILL /F /IM TouchDesigner.exe
-TASKKILL /F /IM python3.9.exe
+	ECHO FIRST MAKE SURE THEYRE NOT RUNNING
+	TASKKILL /F /IM TouchDesigner.exe
+	TASKKILL /F /IM python3.9.exe
 
-ECHO STARTING UP TOUCHDESIGNER
-start "%programfiles%\derivative\touchdesigner099\bin\touchdesigner099.exe" "C:\Users\lakenhal\Desktop\LAKENHAL\LAKENHAL.toe"
+	ECHO STARTING UP TOUCHDESIGNER
+	start "%programfiles%\derivative\touchdesigner099\bin\touchdesigner099.exe" "C:\Users\lakenhal\Desktop\LAKENHAL\LAKENHAL.toe"
 
 
-ECHO STARTING UP PYTHON SCRIPT
-start python "C:\Users\lakenhal\Desktop\LAKENHAL\live_recognizer.py"
+	ECHO STARTING UP PYTHON SCRIPT
+	start python "C:\Users\lakenhal\Desktop\LAKENHAL\live_recognizer.py"
 
 ### BAT FILE SHUTDOWN
 
-@ ECHO OFF
-: This batch file quits the Python and Touchdesigner
-: script for the Lakenhal installation
-: Mark IJzerman, 2021
+	@ ECHO OFF
+	: This batch file quits the Python and Touchdesigner
+	: script for the Lakenhal installation
+	: Mark IJzerman, 2021
 
-TITLE LAKENHAL STOP
+	TITLE LAKENHAL STOP
 
-ECHO STOPPING TOUCH
-TASKKILL /F /IM TouchDesigner.exe
+	ECHO STOPPING TOUCH
+	TASKKILL /F /IM TouchDesigner.exe
 
 
-ECHO STOPPING PYTHON SCRIPT
-TASKKILL /F /IM python3.9.exe
+	ECHO STOPPING PYTHON SCRIPT
+	TASKKILL /F /IM python3.9.exe
